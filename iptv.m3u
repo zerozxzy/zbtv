@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://img2.baidu.com/it/u=2230351433,2479315889&fm=253&fmt=auto&app=138&f=JPEG" group-title="央视",CCTV-1高清
+#EXTINF:-1 tvg-id="1" tvg-logo="https://img2.baidu.com/it/u=2230351433,2479315889&fm=253&fmt=auto&app=138&f=JPEG" group-title="央视" tvg-name="cctv1",CCTV-1高清
 http://event.pull.hebtv.com/jishi/cp3.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://img2.baidu.com/it/u=2230351433,2479315889&fm=253&fmt=auto&app=138&f=JPEG" group-title="央视",CCTV-1高清
+#EXTINF:-1 tvg-id="1" tvg-logo="https://img2.baidu.com/it/u=2230351433,2479315889&fm=253&fmt=auto&app=138&f=JPEG" group-title="央视" tvg-name="cctv1",CCTV-1高清
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
